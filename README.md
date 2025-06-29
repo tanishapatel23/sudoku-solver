@@ -1,7 +1,7 @@
 # 🧩 Sudoku Visualizer
 
 <p align="center">
-  <img src="screenshots/landing_page.png" alt="Landing Page" width="47%"/>
+  <img src="screenshots/landingpage.png" alt="Landing Page" width="47%"/>
   <img src="screenshots/solved_confetti.png" alt="Solved Puzzle with Confetti" width="47%"/>
 </p>
 
